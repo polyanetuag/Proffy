@@ -12,7 +12,7 @@ export async function up(knex: Knex) {
             .onDelete('CASCADE'); 
             
         table.timestamp('created_at')               //Quando a conexão foi estabelecida
-            .defaultTo('now()')                     // Horário local
+            .defaultTo(knex.raw('CURRENT_TIMESTAMP'))                     // Horário local
             .notNullable();
     });
 }
