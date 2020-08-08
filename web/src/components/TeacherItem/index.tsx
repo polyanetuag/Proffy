@@ -5,31 +5,42 @@ import whatsappIcon from '../../assets/images/icons/whatsapp.svg'
 
 import './styles.css'
 
-function TeacherItem() {
+export interface Teacher {
+    id: number;
+        avatar: string;
+        bio: string;
+        cost: number;
+        name: string;
+        subject: string;
+        whatsapp: string;
+}
+
+interface TeacherItemProps {
+    teacher: Teacher;
+}
+
+const TeacherItem: React.FC<TeacherItemProps> = ({teacher}) => {
     return (
         <article className="teacher-item">
             <header>
-                <img src="https://avatars1.githubusercontent.com/u/38694620?s=460&u=c5be7b8b573e355f157a2d8b263a3b45908f61d0&v=4" alt="Igor Tuag"/>
+                <img src={teacher.avatar} alt={teacher.name}/>
                     <div>
-                        <strong>Igor Tuag</strong>
-                        <span>Programação - Desenvolvendo FullStacks</span>
+                        <strong>{teacher.name}</strong>
+                        <span>{teacher.subject}</span>
                     </div>
             </header>
 
-                <p>
-                    Apaixonado por tecnologias JavaScript, ReactJS e React Native.
-                <br /><br />
-                    Sua metodologia irá fazer com que você aprenda de maneira fácil e rápida, levando a uma experiência de outro mundo!
-                </p>
+                <p>{teacher.bio}</p>
+
                 <footer>
                 <p>
                     Preço/hora
-                <strong>R$ 90,00</strong>
+                <strong>R$ {teacher.cost}</strong>
                 </p>
-                <button type="button">
+                <a href={`https://wa.me/${teacher.whatsapp}`}>
                     <img src={whatsappIcon} alt="whatsapp"/>
                         Entrar em contato
-                </button>
+                </a>
                 </footer>
         </article>
     );
