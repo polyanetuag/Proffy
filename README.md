@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img  width= '300'src=".\.github\logoProffy.svg">
+    <img  width= '200'src=".\.github\logoProffy.svg">
 </h1>
 
 <h3 align="center"> Next Level Week #02 
