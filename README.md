@@ -33,7 +33,7 @@ Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketse
 - Expo
 
 
-**ATENÇÃO❗** É necessário que já esteja instalado:
+**ATENÇÃO❗** É necessário que já esteja instalado em sua máquina:
 
 - Node.js
 - Git 
