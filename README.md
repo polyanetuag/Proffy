@@ -17,7 +17,7 @@
 
 ## 📚 Sobre
 
-O projeto Proffy foi desenvolvido com o objetivo de conectar professores e alunos em uma plataforma digital. Possui versão web, onde os professores podem se cadastrar para dar aulas, adicionando informações sobre a disciplina, o custo e horário e, versão mobile, em que os alunos podem filtrar as aulas cadastradas para iniciar os estudos.
+O projeto Proffy foi desenvolvido com o objetivo de conectar professores e alunos em uma plataforma digital. Possui versão web, em que os professores podem se cadastrar para dar aulas, adicionar informações sobre a disciplina, o custo e horário e, versão mobile, em que os alunos podem filtrar as aulas cadastradas para iniciar os estudos.
 
 Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketseat, com tutoria de Diego Fernandes.
 
