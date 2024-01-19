@@ -41,7 +41,7 @@ Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketse
 
 - Node.js
 - Git 
-- Gerenciador de pacotes (NPM ou Yarn).
+- Gerenciador de pacotes (NPM ou Yarn)
 
 ---
 ## 📦 Como instalar e iniciar o projeto
