@@ -17,7 +17,7 @@
 
 ## 📚 Sobre
 
-O projeto **Proffy** foi desenvolvido com o objetivo de conectar professores e alunos em uma plataforma de estudos digital.
+O projeto **Proffy** é uma plataforma de estudos digital e foi desenvolvido com o objetivo de conectar professores e alunos, contribuindo para uma melhor educação .
 
 Possui duas versões: 
 - a versão **web**, em que os professores podem se cadastrar para dar aulas, adicionar informações sobre a disciplina, o custo e o horário de cada aula e, 
