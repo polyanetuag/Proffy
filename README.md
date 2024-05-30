@@ -90,7 +90,7 @@ $ yarn install
 # Iniciar o app
 $ yarn start
 
-# Obs: Escaneie o QR Code exibido na janela do navegador.
+# Obs: Para acessar o mobile, escaneie o QR Code exibido na janela do navegador.
 ```
 
 ---
