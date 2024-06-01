@@ -37,7 +37,7 @@ Essa aplicação foi realizada durante a semana Next Level Week #2, projeto da R
 - Expo - auxiliar para a versão mobile
 
 
-**ATENÇÃO❗** É necessário que já esteja instalado em sua máquina:
+**ATENÇÃO❗** É necessário que já esteja instalado em sua máquina os seguintes pacotes:
 
 - Node.js
 - Git 
