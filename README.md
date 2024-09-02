@@ -39,8 +39,8 @@ Essa aplicação foi realizada durante a semana Next Level Week #2, projeto da R
 
 **ATENÇÃO❗** É necessário que já esteja instalado em sua máquina os seguintes pacotes:
 
-- Node.js
-- Git 
+- [Node.js](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+- [Git](https://git-scm.com/) 
 - Gerenciador de pacotes (NPM ou Yarn)
 
 ---
