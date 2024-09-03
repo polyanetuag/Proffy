@@ -41,7 +41,7 @@ Essa aplicação foi realizada durante a semana Next Level Week #2, projeto da R
 
 - [Node.js](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - [Git](https://git-scm.com/) 
-- Gerenciador de pacotes (NPM ou Yarn)
+- Gerenciador de pacotes (NPM ou Yarn) - [Yarn](https://yarnpkg.com/cli/install)
 
 ---
 ## 📦 Como instalar e iniciar o projeto
