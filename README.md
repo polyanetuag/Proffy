@@ -32,7 +32,7 @@ Essa aplicação foi realizada durante a semana Next Level Week #2, projeto da R
 ## 🚀 Tecnologias Utilizadas
 
 - [Typescript](https://www.typescriptlang.org/)
-- ReactJs
+- [ReactJs](https://react.dev/)
 - React Native (versão mobile)
 - Expo - auxiliar para a versão mobile
 
