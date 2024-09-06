@@ -33,7 +33,7 @@ Essa aplicação foi realizada durante a semana Next Level Week #2, projeto da R
 
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJs](https://react.dev/)
-- React Native (versão mobile)
+- [React Native (versão mobile)](https://reactnative.dev/)
 - Expo - auxiliar para a versão mobile
 
 
