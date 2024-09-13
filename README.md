@@ -34,7 +34,7 @@ Essa aplicação foi realizada durante a semana Next Level Week #2, projeto da R
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJs](https://react.dev/)
 - [React Native (versão mobile)](https://reactnative.dev/)
-- Expo - auxiliar para a versão mobile
+- [Expo](https://expo.dev/) - auxiliar para a versão mobile
 
 
 **ATENÇÃO❗** É necessário que já esteja instalado em sua máquina os seguintes pacotes:
