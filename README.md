@@ -25,9 +25,6 @@ A aplicação possui **duas** versões:
 
 Essa aplicação foi realizada durante a semana Next Level Week #2, projeto da Rocketseat, com tutoria de Diego Fernandes.
 
-  
-
----
 
 ## 🚀 Tecnologias Utilizadas
 
