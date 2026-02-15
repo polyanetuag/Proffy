@@ -40,7 +40,6 @@ Essa aplicação foi realizada durante a semana Next Level Week #2, projeto da R
 - [Git](https://git-scm.com/) 
 - [Yarn](https://yarnpkg.com/cli/install) ou NPM
 
----
 ## 📦 Como instalar e iniciar o projeto
 
 ### API (Back-end)
