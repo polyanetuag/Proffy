@@ -8,8 +8,6 @@
  
 </h3>
 
-
-
 <h1 align="center">
     <img src=".\.github\InterfaceAplicativo.png">
 </h1>
@@ -20,7 +18,7 @@
 O projeto ***Proffy*** é uma plataforma de estudos online e foi desenvolvido com o objetivo de conectar professores e alunos em um só lugar.
 
 A aplicação possui **duas** versões: 
-- a versão ***web***, em que os professores podem se cadastrar para dar aulas, adicionar informações sobre a disciplina, o custo e o horário de cada aula e, 
+- a versão ***web***, em que os professores podem se cadastrar para dar aulas, adicionar informações sobre a disciplina, custo e o horário de cada aula e, 
 - a versão ***mobile***, onde o acesso é feitos pelos alunos, que podem fazer a filtragem das aulas cadastradas para iniciar os estudos pelo aplicativo. 
 
 Essa aplicação foi realizada durante a semana Next Level Week #2, projeto da Rocketseat, com tutoria de Diego Fernandes.
