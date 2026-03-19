@@ -28,7 +28,7 @@ Essa aplicação foi realizada durante a semana *Next Level Week #2*, projeto da
 
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJs](https://react.dev/)
-- [React Native (versão mobile)](https://reactnative.dev/)
+- [React Native](https://reactnative.dev/) (versão mobile)
 - [Expo](https://expo.dev/) (auxiliar para a versão mobile)
 
 
