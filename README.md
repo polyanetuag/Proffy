@@ -29,7 +29,7 @@ Essa aplicação foi realizada durante a semana *Next Level Week #2* - projeto d
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJs](https://react.dev/)
 - [React Native](https://reactnative.dev/) (versão mobile)
-- [Expo](https://expo.dev/) (auxiliar para a versão mobile)
+- [Expo](https://expo.dev/) (versão mobile)
 
 
 **ATENÇÃO❗** É necessário que já esteja instalado em sua máquina os seguintes pacotes:
