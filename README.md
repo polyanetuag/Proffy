@@ -36,7 +36,7 @@ Essa aplicação foi realizada durante a semana *Next Level Week #2* - projeto d
 
 - [Node.js](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - [Git](https://git-scm.com/) 
-- [Yarn](https://yarnpkg.com/cli/install) ou NPM
+- [Yarn](https://yarnpkg.com/cli/install) ou [NPM](https://www.npmjs.com/https://www.npmjs.com/)
 
 ## 📦 Como instalar e iniciar o projeto
 
