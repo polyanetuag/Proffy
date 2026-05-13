@@ -15,7 +15,7 @@
 
 ## 📚 Sobre
 
-O projeto **Proffy** é uma plataforma de estudos online e foi desenvolvido com o objetivo de conectar professores e alunos em um só lugar.
+O projeto **Proffy** é uma plataforma de estudos online e foi desenvolvida com o objetivo de conectar professores e alunos em um só lugar.
 
 A aplicação possui duas versões: 
 - ***Web***, em que os professores podem se cadastrar para dar aulas, adicionar informações sobre a disciplina, custo e o horário de cada aula e, 
